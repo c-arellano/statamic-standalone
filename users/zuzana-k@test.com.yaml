@@ -1,0 +1,8 @@
+name: Zuzana
+super: true
+id: 0007e5bb-5637-4001-8e55-5ea86789faee
+password_hash: $2y$10$dQ04oxPCVYSfCOLKli3SX.GOSn5iUm2nEQjSmpbn5BMUkfiRVZk4e
+preferences:
+  collections:
+    pages:
+      after_save: create_another
